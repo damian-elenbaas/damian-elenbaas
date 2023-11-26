@@ -1,4 +1,4 @@
-### 📈 Github statistics:
+# 📈 Github statistics:
 
 ![](https://raw.githubusercontent.com/damian-elenbaas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/damian-elenbaas/github-stats/master/generated/overview.svg#gh-light-mode-only)
