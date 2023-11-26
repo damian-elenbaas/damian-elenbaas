@@ -1,9 +1,16 @@
+# 🌱 Things I want to learn/tryout:
+
+- [Rust](https://www.rust-lang.org/)
+- [Leptos](https://leptos.dev/)
+- [HTMX](https://htmx.org/)
+
 # 📈 Github statistics:
 
 ![](https://raw.githubusercontent.com/damian-elenbaas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/damian-elenbaas/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/damian-elenbaas/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/damian-elenbaas/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 
 <!--
