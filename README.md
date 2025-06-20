@@ -1,8 +1,3 @@
-# 🌱 Things I want to learn/tryout:
-
-- [Rust](https://www.rust-lang.org/)
-- [Leptos](https://leptos.dev/)
-- [HTMX](https://htmx.org/)
 
 # 📈 Github statistics:
 
